@@ -9,7 +9,7 @@
 - 🌱 Exploring **Cloud, DevOps & Java DSA**  
 - 👯 Open to collaborate on **Open Source Projects**  
 - 💬 Ask me about **React, Node.js, MongoDB, Express, Java, C++**  
-- 📫 Reach me on: [![LinkedIn Badge](https://img.shields.io/badge/-DishantJaryal-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dishant-jaryal)  
+- 📫 Reach me on: [![LinkedIn Badge](https://img.shields.io/badge/-DishantJaryal-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dishantjaryal1)  
 - ⚡ Fun fact: I love turning ideas into products 🚀  
 
 ---
